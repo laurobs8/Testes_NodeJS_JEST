@@ -1,0 +1,11 @@
+{
+  "name": "Testes_NodeJS_JEST",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/laurobs8/Testes_NodeJS_JEST.git",
+  "author": "Lauro Soares <lauro_bs8@hotmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
